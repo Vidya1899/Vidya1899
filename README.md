@@ -1,7 +1,7 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Vidya1899>&theme=<RADICAL>" />
-[![Vidya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidya1899)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidya1899&show_icons=true&theme=radical)
+
 
 
 <!--

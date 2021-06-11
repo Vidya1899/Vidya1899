@@ -2,7 +2,7 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Vidya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidya1899&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidya1899&layout=compact)](https://github.com/Vidya1899/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidya1899&repo=github-readme-stats)](https://github.com/Vidya1899/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidya1899)](https://github.com/Vidya1899/github-readme-stats)
 
 
 <!--

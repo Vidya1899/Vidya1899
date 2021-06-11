@@ -1,6 +1,7 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidya1899&layout=compact)](https://github.com/Vidya1899/github-readme-stats)
 <!-- Actual text -->
 

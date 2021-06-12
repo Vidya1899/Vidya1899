@@ -1,6 +1,6 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Vidya and I'm a final year student at Vellore Institute of Technology, India. You can find me on  [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+My name is Vidya and I'm a final year undergraduate student at Vellore Institute of Technology, India. You can find me on  [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)

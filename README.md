@@ -6,7 +6,6 @@ My name is Vidya and I'm a final year undergraduate student at Vellore Institute
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 <!-- Actual text -->
 
 <!-- Icons -->
@@ -34,6 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![Vidya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidya1899&show_icons=true&theme=radical)
 ![Vidya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidya1899&count_private=true)
 
